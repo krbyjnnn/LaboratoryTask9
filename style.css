@@ -1,4 +1,4 @@
-body {
+body{
     background-color: #808080; 
     height: 100vh;
     display: flex;
@@ -20,7 +20,7 @@ body {
     padding: 1.5rem;
 }
 
-h2 strong {
+h2 strong{
     font-size: 1.75rem;
     color: #000000;
 }
@@ -29,13 +29,13 @@ h2 strong {
     transform: translateY(-3px);
 }
 
-#doorResult {
+#doorResult{
     min-height: 60px;
     display: flex;
     align-items: center;
     font-weight: 600;
 }
 
-.flex-grow-1 {
+.flex-grow-1{
     flex: 1;
 }
