@@ -20,4 +20,3 @@ minusBtn.addEventListener('click', function(){
 function updateDisplay(){
     coinDisplay.innerText = coins;
 }
-
